@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "user": "Harry James Potter",
+    "tweets": 350,
+    "followers": 995000,
+    "avatar": "https://ik.imagekit.io/hpapi/harry.jpg"
+  },
+  {
+    "id": 2,
+    "user": "Hermione Jean Granger",
+    "tweets": 250,
+    "followers": 800500,
+    "avatar": "https://ik.imagekit.io/hpapi/hermione.jpeg"
+  },
+  {
+    "id": 3,
+    "user": "Ronald Bilius Weasley",
+    "tweets": 400,
+    "followers": 720500,
+    "avatar": "https://ik.imagekit.io/hpapi/ron.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Neville Longbottom",
+    "tweets": 760,
+    "followers": 480200,
+    "avatar": "https://ik.imagekit.io/hpapi/neville.jpg"
+  },
+  {
+    "id": 5,
+    "user": "Ginevra Molly Weasley",
+    "tweets": 800,
+    "followers": 760250,
+    "avatar": "https://ik.imagekit.io/hpapi/ginny.jpg"
+  },
+  {
+    "id": 6,
+    "user": "Cho Chang",
+    "tweets": 450,
+    "followers": 78095,
+    "avatar": "https://ik.imagekit.io/hpapi/cho.jpg"
+  },
+  {
+    "id": 8,
+    "user": "Luna Lovegood",
+    "tweets": 170,
+    "followers": 630800,
+    "avatar": "https://ik.imagekit.io/hpapi/luna.jpg"
+  },
+  {
+    "id": 9,
+    "user": "Draco Lucius Malfoy",
+    "tweets": 950,
+    "followers": 400900,
+    "avatar": "https://ik.imagekit.io/hpapi/draco.jpg"
+  },
+
+  {
+    "id": 10,
+    "user": "Cedric Diggory",
+    "tweets": 550,
+    "followers": 330800,
+    "avatar": "https://ik.imagekit.io/hpapi/cedric.png"
+  }
+]
