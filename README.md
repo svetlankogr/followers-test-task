@@ -6,4 +6,4 @@ All changes are saved in the localStorage and are available to the user after re
 page. 
 All tasks were completed according to the layout and technical task.
 Technologies were used: HTML, CSS, React.
-Click [HERE](svetlankogr.github.io/followers-test-task/) for a detailed review of the app.
+Click [HERE](https://svetlankogr.github.io/followers-test-task/) for a detailed review of the app.
